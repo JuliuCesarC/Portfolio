@@ -6,12 +6,12 @@ Criei um site como meu portfolio pessoal, onde posso exibir meu projetos e desta
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **VS Code Landing Page**
-| :label: Tecnologias | React, NextJS, TypeScript, Styled Components
-| :rocket: URL         | https://vs-code-landing-page.vercel.app/
-| :fire: Desafio     | https://vs-code-landing-page.vercel.app/
+| :sparkles: Nome        | **Site Portfolio**
+| :label: Tecnologias | React, NextJS, TypeScript, Styled Components, Framer motion, Lucide
+| :rocket: URL         | https://juliu-cesar.vercel.app/
+| :fire: Desafio     | https://juliu-cesar.vercel.app/
 
-<div align="center" height="700">
+<div align="center">
   
 ![portfolio-home](https://github.com/JuliuCesarC/Portfolio/assets/106402577/b24cf524-30e1-4700-82d1-da293544dcc9.png#vitrinedev)
   
