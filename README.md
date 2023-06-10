@@ -13,7 +13,7 @@ Criei um site como meu portfolio pessoal, onde posso exibir meu projetos e desta
 
 <div align="center">
   
-![portfolio-home](https://github.com/JuliuCesarC/Portfolio/assets/106402577/b24cf524-30e1-4700-82d1-da293544dcc9.png#vitrinedev)
+![home-portfolio](https://github.com/JuliuCesarC/Portfolio/assets/106402577/7e6b3950-66e5-402c-b164-8d82717b40ba.png#vitrinedev)
   
 </div>
 
