@@ -6,16 +6,12 @@ Criei um site como meu portfolio pessoal, onde posso exibir meu projetos e desta
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Site Portfolio**
+| :sparkles: Nome        | **Portfolio**
 | :label: Tecnologias | React, NextJS, TypeScript, Styled Components, Framer motion, Lucide
 | :rocket: URL         | https://juliu-cesar.vercel.app/
 | :fire: Desafio     | https://juliu-cesar.vercel.app/
 
-<div align="center">
-  
-![home-portfolio](https://github.com/JuliuCesarC/Portfolio/assets/106402577/7e6b3950-66e5-402c-b164-8d82717b40ba.png#vitrinedev)
-  
-</div>
+![home-portfolio](https://github.com/JuliuCesarC/Portfolio/assets/106402577/005e8f91-6587-45c2-82c0-4ea2d597d07c.png#vitrinedev)
 
 ## Design
 
